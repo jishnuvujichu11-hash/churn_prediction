@@ -12,9 +12,9 @@ customer-churn-project/
 │   ├── raw/            # Original dataset (Telco-Customer-Churn.csv)
 │   └── processed/      # Cleaned/encoded datasets, scored customers
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_modeling.ipynb
-│   └── 03_insights_dashboard.ipynb (optional)
+│   ├── churn_eda.ipynb
+│   ├── preprocessing.ipynb
+│   
 ├── src/
 │   ├── data_prep.py
 │   ├── train.py
@@ -25,8 +25,7 @@ customer-churn-project/
 │   └── metrics.json
 ├── reports/
 │   ├── figures/
-│   └── insights.md
-├── requirements.txt
+│ 
 └── README.md
 ```
 
