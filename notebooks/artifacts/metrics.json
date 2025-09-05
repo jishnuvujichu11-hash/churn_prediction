@@ -1,0 +1,1 @@
+{"results": {"RandomForest": {"auc": 0.84164636875579, "cm": [[944, 89], [196, 176]]}, "LogisticRegression": {"auc": 0.8398585912208933, "cm": [[932, 101], [177, 195]]}}, "best": "RandomForest"}
